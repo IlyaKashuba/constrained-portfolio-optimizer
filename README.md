@@ -3,7 +3,7 @@
 
 [![C#](https://img.shields.io/badge/C%23-10+-239120?style=flat&logo=csharp)](https://docs.microsoft.com/ru-ru/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-6+-512BD4?style=flat&logo=dotnet)](https://dotnet.microsoft.com/)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
  
 ## Задача
 Реализовать алгоритм оптимизации портфеля ценных бумаг по модели Марковица с добавлением практических ограничений:
